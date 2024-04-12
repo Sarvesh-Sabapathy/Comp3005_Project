@@ -31,3 +31,4 @@ This project is a Health and Fitness Club Management System developed in Java. I
 2. Set up a PostgreSQL database and use the DML and DDL files found in SQL directory to help setup and fill the tables.
 3. Compile the Java code:
 4. Call various functions in the main method to use the application
+5. Here is the link to see how the application works https://youtu.be/v1d2_ThRbi4
